@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Rizwan Hanif]!
+# Hi there 👋, I'm Rizwan Hanif!
 ## A Software Engineer and Full Stack Developer.
 
 ### 🚀 About Me
