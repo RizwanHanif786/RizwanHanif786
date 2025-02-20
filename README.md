@@ -5,7 +5,6 @@
 - 🌍 I'm based in [Pakistan].
 - 📫 You can reach me at [rizwanhanif633@gmail.com].
 - 🎯  I have proficient hands-on experience with various technologies including HTML, CSS, Bootstrap, SASS, SCSS, AngularJS, Angular 4+, React JS, NextJS, AstroJsS, Node JS, Nest JS, ExpressJS, MongoDB, PrimeNg, AgGrid, PrimeFlex, and Material UI. I.
-- 
 
 ### 🔥 Skills
 
