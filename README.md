@@ -1,10 +1,9 @@
 # Hi there 👋, I'm Rizwan Hanif!
 ## A Software Engineer and Full Stack Developer.
 ### 🚀 About Me  
-📍 **Multan, Pakistan**  
+📍  **Multan, Pakistan**  
 📞 **Phone:** +92 308 6871971  
 📫 **Email:** rizwanhanif633@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/rizwan-hanif-70733b254](https://www.linkedin.com/in/rizwan-hanif-70733b254/)  
 💻 **GitHub:** [github.com/RizwanHanif786](https://github.com/RizwanHanif786)  
 
 ### 🎯 Summary  
@@ -19,10 +18,10 @@ I'm a **Senior Front-End Developer** with **5+ years** of experience in front-en
 I excel in **problem-solving, communication, and team management**. I am highly self-motivated and passionate about learning, sharing knowledge, and working in collaborative environments.  
 
 ### 🏆 Experience  
-**Front-End Developer - TECHNOVEZ Pvt. Ltd.**  
+**Full Stack Developer - TECHNOVEZ Pvt. Ltd.**  
 📅 March 2020 - March 2021  
 
-**Front-End Developer - BURJSOFT Technologies Pvt. Ltd.**  
+**Full Stack Developer - BURJSOFT Technologies Pvt. Ltd.**  
 📅 April 2021 - Present (Team Lead)  
 
 ### 🎓 Education  
@@ -30,12 +29,17 @@ I excel in **problem-solving, communication, and team management**. I am highly 
 🎓 Bachelor's in Computer Science  
 
 ### 🌟 Featured Projects  
-🔹 **MotoMate** – Angular 9, Node.js, MongoDB, Ngrx, RxJs, Bootstrap, TypeScript ([Live](https://motomate123.com))  
-🔹 **TreatAnyone** – Angular 9, GraphQL, ROR, RxJs, AgGrid, ChartJs, PrimeNg ([Live](https://www.treatanyone.com/))  
-🔹 **TotalPartyPlanner** – React JS, Ember JS, MUI, .Net Core, AgGrid, JQuery, SQL ([Live](https://totalpartyplanner.com/))  
-🔹 **Dispatch1** – Angular 13, Material UI, .Net Core, SQL Server, RxJs ([Live](https://qa.dispatch1.com/))  
-🔹 **Gemba** – Angular 7, Node.js, Ngrx, MongoDB, Material Design, TypeScript ([Live](http://www.gemba-app.com))  
-🔹 **More projects on [GitHub](https://github.com/RizwanHanif786)**  
+🔹 **WashBuddy** – Astro Js, Next Js, Supabase, Tailwind CSS([Live](https://washbuddy-frontend.vercel.app/)) 
+
+🔹 **TreatAnyone** – Angular 9, GraphQL, ROR, RxJs, AgGrid, ChartJs, PrimeNg ([Live](https://www.treatanyone.com/))
+
+🔹 **TotalPartyPlanner** – React JS, Ember JS, MUI, .Net Core, AgGrid, JQuery, SQL ([Live](https://totalpartyplanner.com/))
+
+🔹 **Dispatch1** – Angular 13, Material UI, .Net Core, SQL Server, RxJs ([Live](https://qa.dispatch1.com/))
+
+🔹 **Ticadi-Rec** - Angular 12, Material UI, .Net Core, SQL Server, RxJs. ([Live](https://ticadirec.tanacorp.com/))
+
+🔹 **ECMS** – Angular 16, Node.js, RxJs, MySQL, PrimeNg, TypeScript ([Live](https://dev.call-metrics.com/))
 
 
 ### 🔥 Skills
