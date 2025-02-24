@@ -29,7 +29,6 @@ I excel in **problem-solving, communication, and team management**. I am highly 
 🎓 Bachelor's in Computer Science  
 
 ### 🌟 Featured Projects  
-🔹 **WashBuddy** – Astro Js, Next Js, Supabase, Tailwind CSS([Live](https://washbuddy-frontend.vercel.app/)) 
 
 🔹 **TreatAnyone** – Angular 9, GraphQL, ROR, RxJs, AgGrid, ChartJs, PrimeNg ([Live](https://www.treatanyone.com/))
 
@@ -40,6 +39,8 @@ I excel in **problem-solving, communication, and team management**. I am highly 
 🔹 **Ticadi-Rec** - Angular 12, Material UI, .Net Core, SQL Server, RxJs. ([Live](https://ticadirec.tanacorp.com/))
 
 🔹 **ECMS** – Angular 16, Node.js, RxJs, MySQL, PrimeNg, TypeScript ([Live](https://dev.call-metrics.com/))
+
+🔹 **WashBuddy** – Astro Js, Next Js, Supabase, Tailwind CSS([Live](https://washbuddy-frontend.vercel.app/)) 
 
 
 ### 🔥 Skills
