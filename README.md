@@ -13,7 +13,6 @@ I'm a **Senior Front-End Developer** with **5+ years** of experience in front-en
 ✅ **UI Libraries & Tools:** PrimeNG, AgGrid, PrimeFlex, Material UI  
 ✅ **Styling & Responsive Design:** HTML, CSS, Bootstrap, SASS, SCSS  
 ✅ **State Management:** Redux, Ngrx,   
-✅ **Other Skills:** TypeScript, JavaScript, GraphQL, Jira, SmartGit  
 
 I excel in **problem-solving, communication, and team management**. I am highly self-motivated and passionate about learning, sharing knowledge, and working in collaborative environments.  
 
