@@ -68,7 +68,6 @@ I excel in **problem-solving, communication, and team management**. I am highly 
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
-![Highcharts](https://img.shields.io/badge/Highcharts-0073E6?style=for-the-badge&logo=highcharts&logoColor=white)
 
 
 #### **Backend**
