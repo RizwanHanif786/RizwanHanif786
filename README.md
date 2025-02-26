@@ -12,7 +12,7 @@ I'm a **Senior Front-End Developer** with **5+ years** of experience in front-en
 ✅ **Back-End & Databases:** Node.js, NestJS, Express.js, MongoDB  
 ✅ **UI Libraries & Tools:** PrimeNG, AgGrid, PrimeFlex, Material UI  
 ✅ **Styling & Responsive Design:** HTML, CSS, Bootstrap, SASS, SCSS  
-✅ **State Management:** Redux, Ngrx,   
+✅ **State Management:** Redux, Ngrx   
 
 I excel in **problem-solving, communication, and team management**. I am highly self-motivated and passionate about learning, sharing knowledge, and working in collaborative environments.  
 
