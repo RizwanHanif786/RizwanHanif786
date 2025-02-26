@@ -2,7 +2,7 @@
 ## A Software Engineer and Full Stack Developer.
 ### 🚀 About Me  
 📍  **Multan, Pakistan**  
-📞 **Phone:** +92 308 6871971  
+📞 **Phone:** +923086871971  
 📫 **Email:** rizwanhanif633@gmail.com  
 💻 **GitHub:** [github.com/RizwanHanif786](https://github.com/RizwanHanif786)  
 
@@ -33,11 +33,11 @@ I excel in **problem-solving, communication, and team management**. I am highly 
 
 🔹 **TotalPartyPlanner** – React JS, Ember JS, MUI, .Net Core, AgGrid, JQuery, SQL ([Live](https://totalpartyplanner.com/))
 
-🔹 **Dispatch1** – Angular 13, Material UI, .Net Core, SQL Server, RxJs ([Live](https://qa.dispatch1.com/))
+🔹 **Dispatch1** – Angular 13, Material UI, .Net Core, SQL Server, RxJs. ([Live](https://qa.dispatch1.com/))
 
 🔹 **Ticadi-Rec** - Angular 12, Material UI, .Net Core, SQL Server, RxJs. ([Live](https://ticadirec.tanacorp.com/))
 
-🔹 **ECMS** – Angular 16, Node.js, RxJs, MySQL, PrimeNg, TypeScript ([Live](https://dev.call-metrics.com/))
+🔹 **ECMS** – Angular 16, Node.js, RxJs, MySQL, PrimeNg, TypeScript. ([Live](https://dev.call-metrics.com/))
 
 🔹 **WashBuddy** – Astro Js, Next Js, Supabase, Tailwind CSS([Live](https://washbuddy-frontend.vercel.app/)) 
 
