@@ -39,7 +39,10 @@ I excel in **problem-solving, communication, and team management**. I am highly 
 
 🔹 **ECMS** – Angular 16, Node.js, RxJs, MySQL, PrimeNg, TypeScript. ([Live](https://dev.call-metrics.com/))
 
-🔹 **WashBuddy** – Astro Js, Next Js, Supabase, Tailwind CSS([Live](https://washbuddy-frontend.vercel.app/)) 
+🔹 **WashBuddy** – Astro Js, Next Js, Supabase, Tailwind CSS([Live](https://washbuddy-frontend.vercel.app/))
+
+🔹 **HoopsToCollege** – Astro Js, ReactJs, Tailwind CSS, Stripe ([Live](https://college-to-hoops.vercel.app/)) 
+
 
 
 ### 🔥 Skills
