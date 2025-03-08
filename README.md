@@ -7,7 +7,7 @@
 💻 **GitHub:** [github.com/RizwanHanif786](https://github.com/RizwanHanif786)  
 
 ### 🎯 Summary  
-I'm a **Senior Front-End Developer** with **5+ years** of experience in front-end development. I have extensive hands-on experience with:  
+I'm a **Senior Full stack Developer** with **5+ years** of experience in web and mobile app development. I have extensive hands-on experience with:  
 ✅ **Front-End Frameworks:** AngularJS, Angular 4+, React JS, Next.js, Astro.js  
 ✅ **Back-End & Databases:** Node.js, NestJS, Express.js, MongoDB  
 ✅ **UI Libraries & Tools:** PrimeNG, AgGrid, PrimeFlex, Material UI  
