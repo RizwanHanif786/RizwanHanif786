@@ -5,6 +5,8 @@
 📞 **Phone:** +923086871971  
 📫 **Email:** rizwanhanif633@gmail.com  
 💻 **GitHub:** [github.com/RizwanHanif786](https://github.com/RizwanHanif786)  
+📄 Resume: rizwanhanif786.github.io
+
 
 ### 🎯 Summary  
 I'm a **Senior Full stack Developer** with **5+ years** of experience in web and mobile app development. I have extensive hands-on experience with:  
