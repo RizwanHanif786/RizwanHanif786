@@ -5,7 +5,7 @@
 📞 **Phone:** +923086871971  
 📫 **Email:** rizwanhanif633@gmail.com  
 💻 **GitHub:** [github.com/RizwanHanif786](https://github.com/RizwanHanif786)  
-📄 Resume: rizwanhanif786.github.io
+📄 **Resume:** [ rizwanhanif786.github.io](https://rizwanhanif786.github.io/)
 
 
 ### 🎯 Summary  
