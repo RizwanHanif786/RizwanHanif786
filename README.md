@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Rizwan Hanif!
-## A Software Engineer and Full Stack Developer.
+## A Software Engineer and Full Stack Developer
 ### 🚀 About Me  
 📍  **Multan, Pakistan**  
 📞 **Phone:** +923086871971  
