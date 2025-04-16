@@ -12,7 +12,7 @@ I'm a **Senior Full Stack Developer** with **5+ years** of experience in web and
 ✅ **Front-End Frameworks:** AngularJS, Angular 4+, React JS, Next.js, Astro.js.  
 ✅ **Back-End & Databases:** Node.js, NestJS, Express.js, MongoDB.  
 ✅ **UI Libraries & Tools:** PrimeNG, AgGrid, PrimeFlex, Material UI.  
-✅ **Styling & Responsive Design:** HTML, CSS, Bootstrap, SASS, SCSS.  
+✅ **Styling & Responsive Design:** HTML, CSS, Bootstrap, SASS, SCSS.
 ✅ **State Management:** Redux, Ngrx.   
 
 I excel in **problem-solving, communication, and team management**. I am highly self-motivated and passionate about learning, sharing knowledge, and working in collaborative environments.  
