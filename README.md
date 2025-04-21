@@ -4,7 +4,7 @@
 📍  **Multan, Pakistan**  
 📞 **Phone:** +923086871971  
 📫 **Email:** rizwanhanif633@gmail.com  
-📄 **Resume:** [ rizwanhanif786.github.io](https://rizwanhanif786.github.io/)
+📄 **Resume:** [rizwanhanif.vercel.app](https://rizwanhanif.vercel.app/)
 
 
 ### 🎯 Summary  
