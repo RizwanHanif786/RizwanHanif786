@@ -42,7 +42,7 @@ I excel in **problem-solving, communication, and team management**. I am highly 
 
 🔹 **WashBuddy** – Astro Js, Next Js, Supabase, Tailwind CSS([Live](https://washbuddy-frontend.vercel.app/))
 
-🔹 **HoopsToCollege** – Astro Js, ReactJs, Tailwind CSS, Stripe ([Live](https://college-to-hoops.vercel.app/)) 
+🔹 **HoopsToCollege** – Astro Js, ReactJs, Tailwind CSS, Stripe ([Live](http://hoopstocollege.com/)) 
 
 
 
