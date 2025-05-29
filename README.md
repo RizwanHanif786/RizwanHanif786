@@ -8,7 +8,7 @@
 
 
 ### 🎯 Summary  
-I'm a **Senior Full Stack Developer** with **5+ years** of experience in web and mobile app development. I have extensive hands-on experience with:  
+A highly motivated IT professional with 5+ years of experience in web, mobile, and server-side development. Skilled in both front-end and back-end technologies, with expertise in developing scalable, high-performance applications using the latest tools and frameworks. Passionate about crafting efficient, user-centric applications and delivering robust solutions that meet client and business needs. I have extensive hands-on experience with:  
 ✅ **Front-End Frameworks:** AngularJS, Angular 4+, React JS, Next.js, Astro.js.  
 ✅ **Back-End & Databases:** Node.js, NestJS, Express.js, MongoDB.  
 ✅ **UI Libraries & Tools:** PrimeNG, AgGrid, PrimeFlex, Material UI.  
