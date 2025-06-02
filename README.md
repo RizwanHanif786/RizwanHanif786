@@ -44,7 +44,7 @@ I excel in **problem-solving, communication, and team management**. I am highly 
 
 🔹 **HoopsToCollege** – Astro Js, ReactJs, Tailwind CSS ([Live](http://hoopstocollege.com/)) 
 
-🔹 **ZenapticLabs** – Astro Js, ReactJs, Tailwind CSS, Primitive Motion, GSAP ([Live](http://zenapticlabs.com/)) 
+🔹 **ZenapticLabs** – Astro Js, ReactJs, Tailwind CSS, Primitive Motion, GSAP, Mailsender ([Live](http://zenapticlabs.com/)) 
 
 
 
