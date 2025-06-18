@@ -22,7 +22,7 @@ I excel in **problem-solving, communication, and team management**. I am highly 
 📅 March 2020 - March 2021  
 
 **Full Stack Developer - BURJSOFT Technologies Pvt. Ltd.**  
-📅 April 2021 - April 2024
+📅 April 2021 - present
 
 ### 🎓 Education  
 **Virtual University of Pakistan**  
