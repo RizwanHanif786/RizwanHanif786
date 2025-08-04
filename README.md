@@ -18,11 +18,41 @@ A highly motivated IT professional with 5+ years of experience in web, mobile, a
 I excel in **problem-solving, communication, and team management**. I am highly self-motivated and passionate about learning, sharing knowledge, and working in collaborative environments.  
 
 ### 🏆 Experience  
-**Full Stack Developer - TECHNOVEZ Pvt. Ltd.**  
-📅 March 2020 - March 2021  
+#### **Senior Full Stack Developer – Zenaptic Labs | Remote**  
+📅 *February 2025 – Present*  
+Zenaptic Labs is an AI-led product studio helping startups and enterprises rapidly build and launch innovative digital products by leveraging AI and automation.  
 
-**Full Stack Developer - BURJSOFT Technologies Pvt. Ltd.**  
-📅 April 2021 - present
+- Designed and developed a high-impact, innovative landing page to showcase AI-driven services.  
+- Delivered scalable solutions using Next.js, React, and Tailwind CSS.  
+- Ensured clean, maintainable code and coordinated version control using GitHub.  
+
+---
+
+#### **Senior Full Stack Developer – BurjSoft Private Limited**  
+📅 *July 2021 – Present*  
+- Led cross-functional teams to design, develop, and deploy scalable web applications.  
+- Oversaw task distribution, code reviews, and sprint planning for timely deliveries.  
+- Delivered high-quality solutions using Angular, Node.js, React, and modern frameworks.  
+- Implemented CI/CD pipelines, code quality checks, and security best practices.  
+
+---
+
+#### **Quality Assurance Engineer – DIPY Telecom | Remote **  
+📅 *August 2024 – July 2025*  
+- Designed test plans for VoIP platforms ensuring reliability and performance.  
+- Developed automated test scripts, improving test coverage by 30%.  
+- Reduced production incidents by leading defect triage meetings and timely issue resolution.  
+
+---
+
+#### **Senior Software Engineer – TechnoVez Pvt Ltd**  
+📅 *July 2020 – July 2021*  
+- Designed and developed scalable, user-friendly web applications.  
+- Collaborated with designers and product owners to define project requirements.  
+- Optimized backend systems for better scalability and performance.  
+- Contributed to multiple SaaS platforms and mobile app projects.  
+
+---
 
 ### 🎓 Education  
 **Virtual University of Pakistan**  
