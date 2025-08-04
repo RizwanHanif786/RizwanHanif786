@@ -37,7 +37,7 @@ Zenaptic Labs is an AI-led product studio helping startups and enterprises rapid
 
 ---
 
-#### **Quality Assurance Engineer – DIPY Telecom | Remote **  
+#### **Quality Assurance Engineer – DIPY Telecom | Remote**  
 📅 *August 2024 – July 2025*  
 - Designed test plans for VoIP platforms ensuring reliability and performance.  
 - Developed automated test scripts, improving test coverage by 30%.  
